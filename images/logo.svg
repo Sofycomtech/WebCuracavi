@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="30" cy="30" fill="#ff0000" id="svg_1" r="30" transform="matrix(1 0 0 1 0 0)"/>
+  <path d="m41,20l0,19.43l-4.73,0l0,-11.65l-4.35,11.65l-3.82,0l-4.37,-11.68l0,11.68l-4.73,0l0,-19.43l5.59,0l5.45,13.45l5.4,-13.45l5.56,0z" fill="#ff0000" id="svg_2"/>
+  <text fill="#eadada" font-family="Serif" font-size="24" id="svg_3" stroke-width="0" text-anchor="middle" transform="matrix(2.63203 0 0 1.13371 -17.1828 11.0327)" x="18" xml:space="preserve" y="26"/>
+  <text fill="#ede1e1" font-family="Serif" font-size="24" id="svg_5" stroke-width="0" text-anchor="middle" transform="matrix(4.62216 0 0 1.88916 -20.5527 2.25069)" x="11" xml:space="preserve" y="22"/>
+  <text fill="#dbc9c9" font-family="Serif" font-size="24" id="svg_6" stroke-width="0" text-anchor="middle" transform="matrix(4.63797 0 0 2.12757 -58.5895 24.4312)" x="19" xml:space="preserve" y="10"/>
+  <text fill="#eddada" font-family="Serif" font-size="24" id="svg_7" stroke-width="0" text-anchor="middle" transform="matrix(1.89859 0 0 2.54118 907.148 -356.894)" x="-462" xml:space="preserve" y="160">S</text>
+ </g>
+</svg>
