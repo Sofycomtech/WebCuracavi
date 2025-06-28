@@ -4661,6 +4661,22 @@ img.u-pull-left {
         width  : var(--vspace-1_5);
     }
 }
+/* Estilos para el botón de WhatsApp */
+.button-whatsapp {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #25D366;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
 /* Estilo para la imagen dentro del botón */
 .button-whatsapp img {
     width: 24px;
